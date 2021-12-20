@@ -274,12 +274,12 @@ a {
   fill: #343436;
 }
 .section.section--portfolio {
-  background-color: orange;
+  background-color: #b0b0b0;
   color: white;
 }
 .section.section--portfolio svg {
   top: -20px;
-  fill: orange;
+  fill: #b0b0b0;
 }
 .section.section--portfolio svg.bottom {
   top: auto;

@@ -101,7 +101,7 @@ const IndexPage = () => (
         <a className="pre" href="#contact"><span>#5</span>Get in touch</a>
         <h2>For work inquiries<br />please email:<br />
           <span><a href="mailto:Teakim12@gmail.com">Teakim12@gmail.com</a></span></h2>
-        <p className="lead">More links:  <a href="https://twitter.com/Seoulfed">Twitter</a> and <a href="https://www.linkedin.com/in/TaeKim">Linkedin</a>.</p>
+        <p className="lead">More links:  <a href="https://twitter.com/Seoulfed">Twitter</a> and <a href="https://www.linkedin.com/in/tae-kim-b38a01ba/">Linkedin</a>.</p>
       </div>
     </div>
   </section>
