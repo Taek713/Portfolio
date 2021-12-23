@@ -23,7 +23,7 @@ const IndexPage = () => (
     <div className="section__inner">
       <div className="block">
         <a className="pre" href="#intro"><span>#0</span>Hello</a>
-        <div class="logo"><b>T<span>A</span>E</b></div>
+        <h2>Hello You</h2>
         <ul className="anchornav">
           <li><a href="#intro">Intro <span>#1 What's going on?</span></a></li>
           <li><a href="#about">About <span>#2 Who am I?</span></a></li>
@@ -34,6 +34,7 @@ const IndexPage = () => (
       </div>
     </div>
 
+    <div class="logo"><b>T<span>A</span>E</b></div>
 
   </section>
   <section className="section section--intro" id="intro">
