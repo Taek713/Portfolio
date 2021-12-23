@@ -68,7 +68,7 @@ const IndexPage = () => (
       <div className="block">
         <a className="pre" href="#clients"><span>#3</span>Clients</a>
         <h2>I also work with corporations, institutions and startups in a wide range of industries.</h2>
-        <p className="lead">Here are some of my clients, he has had the pleasure working with:</p>
+        <p className="lead">Here are some of my clients, I've had the pleasure working with:</p>
       </div>
     </div>
   </section>
