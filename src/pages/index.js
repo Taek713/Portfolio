@@ -33,6 +33,9 @@ const IndexPage = () => (
         </ul>
       </div>
     </div>
+
+    <div class="logo"><b>T<span>A</span>E</b></div>
+
   </section>
   <section className="section section--intro" id="intro">
     <div className="section__inner">
