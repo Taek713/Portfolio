@@ -30,6 +30,7 @@ const IndexPage = () => (
           <li><a href="#clients">Clients <span>#3 Who do I work for?</span></a></li>
           <li><a href="#portfolio">Portfolio <span>#4 What I do?</span></a></li>
           <li><a href="#contact">Contact <span>#5 Write a message</span></a></li>
+          <li><a href="/shitposts">Contact <span>#6 Click here to see my Shit posting page</span></a></li>
         </ul>
       </div>
     </div>
