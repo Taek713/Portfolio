@@ -37,20 +37,7 @@ const IndexPage = () => (
     <div class="logo"><b>T<span>A</span>E</b></div>
 
   </section>
-  <section className="section section--intro" id="intro">
-    <div className="section__inner">
-      <div className="block">
-        <a className="pre" href="#intro"><span>#1</span>Intro</a>
-        <h1>Tae Kim is a<br />
-          Full-stack Developer<br />
-          based in<br />
-         Detroit.</h1>
-        <p className="lead">
-          See small bits of my work and a full resume on <a href="#" className="link">Linkedin</a>, and quick thoughts on <a href="https://twitter.com/Seoulfed" className="link">Twitter</a>.
-        </p>
-      </div>
-    </div>
-  </section>
+  
   <div className="blog">
   
   <div className="blog-header blog-is-sticky">
