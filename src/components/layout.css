@@ -109,6 +109,7 @@ html {
   box-sizing: inherit;
   margin: 0;
   padding: 0;
+  z-index: 0;
 }
 
 a {
@@ -418,15 +419,15 @@ p a:hover {
 .logo {
   text-align: center;
   /* width: 65%; */
-  height: 250px;
+  /* height: 250px; */
   margin: auto;
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
    user-select: none;
-   z-index: 999;
+   /* z-index: 999; */
 }
 
 .logo b{
@@ -516,6 +517,22 @@ top: 20vw;
     text-shadow: inherit;
   }
 }
+
+.sidebar {
+  height: 200px;
+  width: 150px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding-top: 40px;
+  background-color: lightblue;
+  }
+  
+  .sidebar div {
+  padding: 8px;
+  font-size: 24px;
+  display: block;
+  }
 
 /* Clients ive worked with section */
 table {

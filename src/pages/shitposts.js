@@ -53,14 +53,14 @@ const IndexPage = () => (
     <div className="blog-header">
       <div className="blog-article header-article">
         <div className="blog-big__title">Esteem</div>
-        <div className="blog-menu small-title date">1.19.22</div>
+        <div className="blog-menu small-title date">2.15.22</div>
       </div>
       <div className="blog-article">
         <img src="https://images.unsplash.com/photo-1496629062893-b0f566065d44?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGJsYWNrJTIwYW5kJTIwd2hpdGV8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt />
         <h2>I dont Hate Love.. <span>Love</span> is just not for me.</h2>
         <div className="blog-detail">
           <span>By Tae Kim</span>
-          <span>5 Min Read</span>
+          <span>Infinite Min Read</span>
         </div>
         <p>No Love Lost, I just cant Love you anymore...</p>
         <a href="#">
@@ -75,16 +75,16 @@ const IndexPage = () => (
     <div className="blog-header">
       <div className="blog-article header-article">
         <div className="blog-big__title">Love</div>
-        <div className="blog-menu small-title date">1.19.22</div>
+        <div className="blog-menu small-title date">2.15.22</div>
       </div>
       <div className="blog-article">
         <img src="https://images.unsplash.com/photo-1529255484355-cb73c33c04bb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTh8fGJsYWNrJTIwYW5kJTIwd2hpdGV8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt />
         <h2>Talking About <span>Vulnerability</span> During Love</h2>
         <div className="blog-detail">
           <span>By Tae Kim</span>
-          <span>5 Min Read</span>
+          <span>Infinite Min Read</span>
         </div>
-        <p>Having traveled a few places, Love just is'nt ideal anywhere.</p>
+        <p>Having traveled a few places, Love's just not ideal anywhere.</p>
         <a href="#">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" className="feather feather-corner-down-right" viewBox="0 0 24 24">
             <path d="M15 10l5 5-5 5" />
@@ -97,11 +97,11 @@ const IndexPage = () => (
     <div className="blog-header">
       <div className="blog-article header-article">
         <div className="blog-big__title">Control</div>
-        <div className="blog-menu small-title date">1.19.22</div>
+        <div className="blog-menu small-title date">2.15.22</div>
       </div>
       <div className="blog-article">
         <img src="https://images.unsplash.com/photo-1616248249518-b16013cd4e42?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTkzfHxibGFjayUyMGFuZCUyMHdoaXRlfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt />
-        <h2>How Love Changed my<span>Understanding</span> Of life</h2>
+        <h2>How Love Changed my <span>Understanding</span> Of life</h2>
         <div className="blog-detail">
           <span>By Tae Kim</span>
           <span>Infinite Min Read</span>
