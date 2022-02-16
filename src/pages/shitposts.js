@@ -106,7 +106,7 @@ const IndexPage = () => (
           <span>By Tae Kim</span>
           <span>Infinite Min Read</span>
         </div>
-        <p>Love is defined and the undefined continues progress, with leaves me praising the Ocean's perspective</p>
+        <p>Love is defined, as the undefined continues progress, which leaves me praising the Ocean's perspective</p>
         <a href="#">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" className="feather feather-corner-down-right" viewBox="0 0 24 24">
             <path d="M15 10l5 5-5 5" />
