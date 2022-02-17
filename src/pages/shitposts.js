@@ -119,9 +119,10 @@ const IndexPage = () => (
   </div>
   <div className="blog-part right-blog">
     <marquee width="100%" direction="left">
-      <span>Now And Then You Miss Her</span>
+      <span>Now And Then I Miss Her</span>
       <span>But, Its Time To Move On</span>
-      <span>Leave Your Heart at The Door...</span>
+      <span>& Leave My Heart At The Door...</span>
+      <span>To Let Someone Else Love You</span>
     </marquee>
     <div className="blog-right-title-container">
       <div className="blog-right-title">
