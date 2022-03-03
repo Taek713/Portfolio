@@ -14,7 +14,7 @@ const UsingDSG = () => (
       <a href="https://www.gatsbyjs.com/docs/reference/rendering-options/deferred-static-generation/">
         documentation about Deferred Static Generation
       </a>
-      .
+      
     </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
