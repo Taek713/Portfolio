@@ -14,7 +14,7 @@ const IndexPage = () => (
       <div className="top"><a href="#">Tae kim</a></div>
       <div className="bottom">
         {/* <a href="https://dribbble.com/hellovolker">DRIBBBLE</a> */}
-        <a href="https://twitter.com/SeoulFed">TWITTER</a>
+        {/* <a href="https://twitter.com/SeoulFed">TWITTER</a> */}
         <a href="mailto:teakim12@gmail.com">EMAIL ME</a>
       </div>
     </div>
@@ -42,7 +42,7 @@ const IndexPage = () => (
     <div className="section__inner">
       <div className="block">
         <a className="pre" href="#intro"><span>#1</span>Intro</a>
-        <h1>Tae Kim is a<br />
+        <h1>Im a<br />
           Full-stack Developer<br />
           based in<br />
          Detroit.</h1>
@@ -143,8 +143,10 @@ const IndexPage = () => (
         <a className="pre" href="#contact"><span>#5</span>Get in touch</a>
         <h2>For work inquiries<br />please email:<br />
           <span><a href="mailto:Teakim12@gmail.com">Teakim12@gmail.com</a></span></h2>
-        <p className="lead">More links:  <a href="https://twitter.com/Seoulfed">Twitter</a> and <a href="https://www.linkedin.com/in/tae-kim-b38a01ba/">Linkedin</a>.</p>
+        <p className="lead">More links: 
+         <a href="https://www.linkedin.com/in/tae-kim-b38a01ba/">Linkedin</a>.</p>
       </div>
+      {/* <a href="https://twitter.com/Seoulfed">Twitter</a> and */}
     </div>
   </section>
 </div>

@@ -53,7 +53,7 @@ const IndexPage = () => (
     <div className="blog-header">
       <div className="blog-article header-article">
         <div className="blog-big__title">Esteem</div>
-        <div className="blog-menu small-title date">2.15.22</div>
+        <div className="blog-menu small-title date">10.15.22</div>
       </div>
       <div className="blog-article">
         <img src="https://images.unsplash.com/photo-1496629062893-b0f566065d44?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGJsYWNrJTIwYW5kJTIwd2hpdGV8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt />
@@ -75,7 +75,7 @@ const IndexPage = () => (
     <div className="blog-header">
       <div className="blog-article header-article">
         <div className="blog-big__title">Love</div>
-        <div className="blog-menu small-title date">2.15.22</div>
+        <div className="blog-menu small-title date">10.15.22</div>
       </div>
       <div className="blog-article">
         <img src="https://images.unsplash.com/photo-1529255484355-cb73c33c04bb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTh8fGJsYWNrJTIwYW5kJTIwd2hpdGV8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt />
@@ -97,7 +97,7 @@ const IndexPage = () => (
     <div className="blog-header">
       <div className="blog-article header-article">
         <div className="blog-big__title">Control</div>
-        <div className="blog-menu small-title date">2.15.22</div>
+        <div className="blog-menu small-title date">10.15.22</div>
       </div>
       <div className="blog-article">
         <img src="https://images.unsplash.com/photo-1616248249518-b16013cd4e42?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTkzfHxibGFjayUyMGFuZCUyMHdoaXRlfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt />
@@ -106,7 +106,7 @@ const IndexPage = () => (
           <span>By Tae Kim</span>
           <span>Infinite Min Read</span>
         </div>
-        <p>Love is defined, as the undefined continues progress, which leaves me praising the Ocean's perspective</p>
+        <p>Love is defined, as the undefined continues progress, leaving me to praise the Ocean's perspective</p>
         <a href="#">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" className="feather feather-corner-down-right" viewBox="0 0 24 24">
             <path d="M15 10l5 5-5 5" />
